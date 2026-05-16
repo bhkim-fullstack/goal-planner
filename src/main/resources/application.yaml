@@ -1,3 +1,9 @@
 spring:
   application:
     name: goal-planner
+
+  security:
+    user:
+      name: root
+      password: 1234
+
